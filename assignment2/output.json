@@ -1,0 +1,715 @@
+{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 711",
+ "timestamp": "2024-09-18T06:00:42.888Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 586",
+ "timestamp": "2024-09-18T06:00:43.895Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 775",
+ "timestamp": "2024-09-18T06:00:44.897Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 545",
+ "timestamp": "2024-09-18T06:00:45.900Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 345",
+ "timestamp": "2024-09-18T06:00:46.906Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 350",
+ "timestamp": "2024-09-18T06:00:47.918Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 114",
+ "timestamp": "2024-09-18T06:00:48.927Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 833",
+ "timestamp": "2024-09-18T06:00:49.938Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 76",
+ "timestamp": "2024-09-18T06:00:50.949Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 630",
+ "timestamp": "2024-09-18T06:00:51.965Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 233",
+ "timestamp": "2024-09-18T06:00:52.974Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 908",
+ "timestamp": "2024-09-18T06:00:53.987Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 94",
+ "timestamp": "2024-09-18T06:00:54.999Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 378",
+ "timestamp": "2024-09-18T06:00:56.008Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 945",
+ "timestamp": "2024-09-18T06:00:57.018Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 366",
+ "timestamp": "2024-09-18T06:00:58.026Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 945",
+ "timestamp": "2024-09-18T06:00:59.036Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 292",
+ "timestamp": "2024-09-18T06:01:00.044Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 945",
+ "timestamp": "2024-09-18T06:01:01.047Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 111",
+ "timestamp": "2024-09-18T06:01:02.059Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 584",
+ "timestamp": "2024-09-18T06:01:03.061Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 439",
+ "timestamp": "2024-09-18T06:01:04.071Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 320",
+ "timestamp": "2024-09-18T06:01:05.082Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 487",
+ "timestamp": "2024-09-18T06:01:06.090Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 304",
+ "timestamp": "2024-09-18T06:01:07.092Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 817",
+ "timestamp": "2024-09-18T06:01:08.096Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 753",
+ "timestamp": "2024-09-18T06:01:09.108Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 81",
+ "timestamp": "2024-09-18T06:01:10.115Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 129",
+ "timestamp": "2024-09-18T06:01:11.116Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 531",
+ "timestamp": "2024-09-18T06:01:12.124Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 743",
+ "timestamp": "2024-09-18T06:01:13.127Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 593",
+ "timestamp": "2024-09-18T06:01:14.135Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 117",
+ "timestamp": "2024-09-18T06:01:15.147Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 445",
+ "timestamp": "2024-09-18T06:01:16.150Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 611",
+ "timestamp": "2024-09-18T06:01:17.166Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 400",
+ "timestamp": "2024-09-18T06:01:18.170Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 773",
+ "timestamp": "2024-09-18T06:01:19.176Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 132",
+ "timestamp": "2024-09-18T06:01:20.182Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 403",
+ "timestamp": "2024-09-18T06:01:21.190Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 604",
+ "timestamp": "2024-09-18T06:01:22.197Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 465",
+ "timestamp": "2024-09-18T06:01:23.203Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 190",
+ "timestamp": "2024-09-18T06:01:24.204Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 826",
+ "timestamp": "2024-09-18T06:01:25.218Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 986",
+ "timestamp": "2024-09-18T06:01:26.229Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 46",
+ "timestamp": "2024-09-18T06:01:27.237Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 802",
+ "timestamp": "2024-09-18T06:01:28.247Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 813",
+ "timestamp": "2024-09-18T06:01:29.260Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 246",
+ "timestamp": "2024-09-18T06:01:30.266Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 535",
+ "timestamp": "2024-09-18T06:01:31.278Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 891",
+ "timestamp": "2024-09-18T06:01:32.286Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 201",
+ "timestamp": "2024-09-18T06:01:33.289Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 967",
+ "timestamp": "2024-09-18T06:01:34.304Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 518",
+ "timestamp": "2024-09-18T06:01:35.318Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 427",
+ "timestamp": "2024-09-18T06:01:36.326Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 424",
+ "timestamp": "2024-09-18T06:01:37.329Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 981",
+ "timestamp": "2024-09-18T06:01:38.340Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 585",
+ "timestamp": "2024-09-18T06:01:39.347Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 154",
+ "timestamp": "2024-09-18T06:01:40.358Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 619",
+ "timestamp": "2024-09-18T06:01:41.366Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 980",
+ "timestamp": "2024-09-18T06:01:42.371Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 647",
+ "timestamp": "2024-09-18T06:01:43.376Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 173",
+ "timestamp": "2024-09-18T06:01:44.379Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 982",
+ "timestamp": "2024-09-18T06:01:45.382Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 801",
+ "timestamp": "2024-09-18T06:01:46.391Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 338",
+ "timestamp": "2024-09-18T06:01:47.406Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 985",
+ "timestamp": "2024-09-18T06:01:48.413Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 264",
+ "timestamp": "2024-09-18T06:01:49.421Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 137",
+ "timestamp": "2024-09-18T06:01:50.434Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 509",
+ "timestamp": "2024-09-18T06:01:51.442Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 535",
+ "timestamp": "2024-09-18T06:01:52.452Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 458",
+ "timestamp": "2024-09-18T06:01:53.462Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 990",
+ "timestamp": "2024-09-18T06:01:54.476Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 453",
+ "timestamp": "2024-09-18T06:01:55.480Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 159",
+ "timestamp": "2024-09-18T06:01:56.486Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 333",
+ "timestamp": "2024-09-18T06:01:57.495Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 11",
+ "timestamp": "2024-09-18T06:01:58.504Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 826",
+ "timestamp": "2024-09-18T06:01:59.510Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 376",
+ "timestamp": "2024-09-18T06:02:00.516Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 902",
+ "timestamp": "2024-09-18T06:02:01.523Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 205",
+ "timestamp": "2024-09-18T06:02:02.538Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 188",
+ "timestamp": "2024-09-18T06:02:03.547Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 755",
+ "timestamp": "2024-09-18T06:02:04.562Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 404",
+ "timestamp": "2024-09-18T06:02:05.572Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 218",
+ "timestamp": "2024-09-18T06:02:06.583Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 559",
+ "timestamp": "2024-09-18T06:02:07.587Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 509",
+ "timestamp": "2024-09-18T06:02:08.589Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 757",
+ "timestamp": "2024-09-18T06:02:09.594Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 595",
+ "timestamp": "2024-09-18T06:02:10.607Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 665",
+ "timestamp": "2024-09-18T06:02:11.621Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 563",
+ "timestamp": "2024-09-18T06:02:12.635Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 38",
+ "timestamp": "2024-09-18T06:02:13.636Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 83",
+ "timestamp": "2024-09-18T06:02:14.639Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 537",
+ "timestamp": "2024-09-18T06:02:15.642Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 29",
+ "timestamp": "2024-09-18T06:02:16.653Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 810",
+ "timestamp": "2024-09-18T06:02:17.661Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 623",
+ "timestamp": "2024-09-18T06:02:18.671Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 80",
+ "timestamp": "2024-09-18T06:02:19.688Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 789",
+ "timestamp": "2024-09-18T06:02:20.695Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 623",
+ "timestamp": "2024-09-18T06:02:21.699Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 437",
+ "timestamp": "2024-09-18T06:02:22.704Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 521",
+ "timestamp": "2024-09-18T06:02:23.709Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 463",
+ "timestamp": "2024-09-18T06:02:24.723Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 430",
+ "timestamp": "2024-09-18T06:02:25.728Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 495",
+ "timestamp": "2024-09-18T06:02:26.736Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 25",
+ "timestamp": "2024-09-18T06:02:27.741Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 472",
+ "timestamp": "2024-09-18T06:02:28.756Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 994",
+ "timestamp": "2024-09-18T06:02:29.765Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 127",
+ "timestamp": "2024-09-18T06:02:30.781Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 409",
+ "timestamp": "2024-09-18T06:02:31.784Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 937",
+ "timestamp": "2024-09-18T06:02:32.792Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 405",
+ "timestamp": "2024-09-18T06:02:33.803Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 18",
+ "timestamp": "2024-09-18T06:02:34.812Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 297",
+ "timestamp": "2024-09-18T06:02:35.816Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 619",
+ "timestamp": "2024-09-18T06:02:36.819Z"
+}{
+ "level": "ERROR",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 216",
+ "timestamp": "2024-09-18T06:02:37.829Z"
+}{
+ "level": "INFO",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 199",
+ "timestamp": "2024-09-18T06:02:38.836Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 253",
+ "timestamp": "2024-09-18T06:02:39.843Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 930",
+ "timestamp": "2024-09-18T06:02:40.849Z"
+}{
+ "level": "WARN",
+ "name": "nz.ac.wgtn.swen301.assignment2.LogRunner",
+ "thread": "main",
+ "message": "Random Log Message 817",
+ "timestamp": "2024-09-18T06:02:41.858Z"
+}
